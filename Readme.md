@@ -50,7 +50,7 @@ Además, incluye una simulación dinámica donde los recursos consumidos por cad
 ---
 ## Vista previa
 
-![Interfaz](interfaz.png)
+![Interfaz](interfaz.png.jpeg)
 ## Instalación
 
 ### Clonar repositorio
