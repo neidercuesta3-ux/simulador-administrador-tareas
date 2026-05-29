@@ -24,19 +24,19 @@ Además, incluye una simulación dinámica donde los recursos consumidos por cad
 
 ## Características
 
-✅ Interfaz gráfica desarrollada con Tkinter
+Interfaz gráfica desarrollada con Tkinter
 
-✅ Gestión de procesos simulados
+Gestión de procesos simulados
 
-✅ Asignación de prioridades
+Asignación de prioridades
 
-✅ Simulación de uso de CPU, RAM, Disco y GPU
+Simulación de uso de CPU, RAM, Disco y GPU
 
-✅ Barras de progreso para monitoreo de recursos
+Barras de progreso para monitoreo de recursos
 
-✅ Información configurable del hardware
+Información configurable del hardware
 
-✅ Actualización automática de métricas
+Actualización automática de métricas
 
 ---
 
