@@ -48,7 +48,9 @@ Además, incluye una simulación dinámica donde los recursos consumidos por cad
 - Random
 
 ---
+## Vista previa
 
+![Interfaz](interfaz.png)
 ## Instalación
 
 ### Clonar repositorio
